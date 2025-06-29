@@ -34,5 +34,5 @@ python scraper.py -f <package_file_name>
 ```
 
 # Notes!
-Make sure to have an VirusTotal API key, and isert it inside the code.
-If not, comment out the VirusTotal function, to pass the check.
+Make sure to have an VirusTotal API key, and insert it inside the code.
+If not, comment out the VirusTotal function, to pass the check, otherwise, it will loop forever.

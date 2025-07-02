@@ -36,3 +36,8 @@ python scraper.py -f <package_file_name>
 # Notes!
 Make sure to have an VirusTotal API key, and insert it inside the code.
 If not, comment out the VirusTotal function, to pass the check, otherwise, it will loop forever.
+
+
+# PoC
+
+![image](https://github.com/user-attachments/assets/55df9513-055e-4f29-bfae-2936973340d5)
